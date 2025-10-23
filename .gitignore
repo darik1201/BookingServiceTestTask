@@ -38,7 +38,6 @@ coverage/
 # === Database / Docker ===
 pgdata/
 docker-data/
-*.sql~
 *.dump
 *.tar
 
